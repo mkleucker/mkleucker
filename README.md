@@ -1,4 +1,8 @@
-### Hi there 👋
+## 👋 Hi, there!
+
+I'm Max, a software engineer from Munich, Germany. 
+
+Checkout [xam.io](https://xam.io) to learn more about me and what I do. 
 
 <!--
 **mkleucker/mkleucker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
